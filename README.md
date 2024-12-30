@@ -65,6 +65,20 @@ Traditional airplanes offer high efficiency and long flight times but require la
 - **Structural Support**: Reinforced wings with carbon fiber.
 - **Emergency Landing Gear**: Added conventional landing gear for testing and contingencies.
 
+## Visuals
+### Prototype Construction
+![Prototype Frame Assembly](IMG_2895.JPG)
+
+![Assembled Prototype](IMG_3044.JPG)
+
+### Testing
+![Test Flight](IMG_4468.JPG)
+
+### Final Design
+![In Flight](PSX_20190605_200555.jpg)
+
+![Final Model](image.png)
+
 ## Conclusion
 This project highlights the potential of VTOL UAVs to revolutionize aviation by combining mobility and efficiency. The research proves that a simplified VTOL design can perform reliably while keeping costs low. Future work can build on this foundation to enhance design and scalability.
 
