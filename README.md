@@ -1,4 +1,4 @@
-# VTOL UAV Project
+# VTOL UAV Project 2019
 
 ## Overview
 This project focuses on developing an unmanned Vertical Take-Off and Landing (VTOL) aircraft that combines the advantages of fixed-wing airplanes and rotary-wing aircraft. The goal is to create an efficient and affordable design that demonstrates the potential of VTOL UAVs in real-world applications.
@@ -67,17 +67,17 @@ Traditional airplanes offer high efficiency and long flight times but require la
 
 ## Visuals
 ### Prototype Construction
-![Prototype Frame Assembly](media/IMG_2895.JPG)
+![Prototype Frame Assembly](VTOL_Project_Media/IMG_2895.JPG)
 
-![Assembled Prototype](media/IMG_3044.JPG)
+![Assembled Prototype](VTOL_Project_Media/IMG_3044.JPG)
 
 ### Testing
-![Test Flight](media/IMG_4468.JPG)
+![Test Flight](VTOL_Project_Media/IMG_4468.JPG)
 
 ### Final Design
-![In Flight](media/PSX_20190605_200555.jpg)
+![In Flight](VTOL_Project_Media/PSX_20190605_200555.jpg)
 
-![Final Model](media/image.png)
+![Final Model](VTOL_Project_Media/image.png)
 
 ## Conclusion
 This project highlights the potential of VTOL UAVs to revolutionize aviation by combining mobility and efficiency. The research proves that a simplified VTOL design can perform reliably while keeping costs low. Future work can build on this foundation to enhance design and scalability.
